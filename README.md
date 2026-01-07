@@ -1,2 +1,2 @@
-# Redux counter
+# Redux-toolkit counter
 
